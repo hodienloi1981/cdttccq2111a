@@ -1,5 +1,5 @@
-GIT VÀ GITHUB.COM
-I. Kiểm tra và cấu hình
+# GIT VÀ GITHUB.COM
+## I. Kiểm tra và cấu hình
 Bước 1. Cài đặt git, đăng ký tài khoản github.com
 Bước 2. Kiểm tra version
 -	Mở cmd.exe
@@ -11,7 +11,7 @@ Bước 3. Cấu hình git trên máy tinh
 -	Gõ: git config --list kiểm tra
 -	Xoá tên: git config --global --unset user.name
 -	Xoá email: git config --global --unset user.email
-II. Cấu hình SSH Key
+## II. Cấu hình SSH Key
 Link thao khảo
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows
 https://www.youtube.com/watch?v=a-zX_qc2S-M
