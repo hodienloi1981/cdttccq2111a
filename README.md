@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=a-zX_qc2S-M
 Mở cmd.exe và chạy các lệnh sau
 
 ** Bước 1.
-ssh-keygen -t ed25519 -C "your_email@example.com"
+    ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ** Bước 2.
 Mở file tài C:\Users\<NameUserPC>\.ssh\id_ed25519.pub
