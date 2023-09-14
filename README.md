@@ -15,15 +15,19 @@ Bước 3. Cấu hình git trên máy tinh
 Link thao khảo
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows
 https://www.youtube.com/watch?v=a-zX_qc2S-M
+
 Mở cmd.exe và chạy các lệnh sau
-Bước 1.
+
+** Bước 1.
 ssh-keygen -t ed25519 -C "your_email@example.com"
-Bước 2.
+
+** Bước 2.
 Mở file tài C:\Users\<NameUserPC>\.ssh\id_ed25519.pub
 Sao chép nội dung trong tập tin
-Bước 3.
+
+** Bước 3.
 Mở website https://github.com/settings/keys
-New SSH key 
+New SSH key
 Giá nội dung đã sao chép ở bước 2
 
 ## III. Đẩy project từ local repository(PC) lên remote repository(Github)
