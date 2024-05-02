@@ -38,7 +38,7 @@ Giá nội dung đã sao chép ở bước 2
 ### 1. Lần đầu
 Mở cmd.exe
 ```
-***Bước 1.*** git init
+Bước 1. git init
 Bước 2. git add .
 Bước 3. git commit -m "ghi nội dung commit"
 Bước 4. git branch -M master
